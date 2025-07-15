@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on becoming a full-stack developer<br>🤝 Open to collaboration<br>🌱 I’m currently working with Angular, node.js and tailwind.<br>🧠 Curious mind always learning about new tech<br>⚡ Off duty i like playing football and trying new things
+🔭 I’m currently working on becoming a full-stack developer<br>🤝 Open to collaboration<br>🧠 Curious mind always learning about new tech<br>⚡ Off duty i like playing football and trying new things
 
 
 ## 🌐 Socials:
